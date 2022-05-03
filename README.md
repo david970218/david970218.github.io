@@ -13,6 +13,7 @@ En este curso vemos de todo.
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * Creado por el increible team de platzi
-
+* Incluye ejemplos en linux windows y mac
+* Disponible para todas las edades
 
 Y como un recordatorio **Este readme es un chiste** para modo de ejemplo. si llegas a leer eso NO TE LO TOMES ENSERIO 
