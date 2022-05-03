@@ -1,4 +1,5 @@
-#HiperBlog 💚
+# HiperBlog 💚
+
 Un blog increible para el curso de[Git y GitHub](https://platzi.com/cursos/git-github/), de [Platzi](https://platzi.com)
 >El curso de Git y GitHub me sirvio para triplicar mi salario
 y lanzarme a la industria del tejido de lana sintetica con Machine Learning
